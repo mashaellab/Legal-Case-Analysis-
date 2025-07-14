@@ -35,5 +35,6 @@
 
 - تصنيف القضايا:
 القضايا العامة هي الأكثر تسجيلًا بين جميع التصنيفات.
+المشروع كامل على لينكدان : https://www.linkedin.com/posts/mashaellab_mshpowerbi-aepaesaeqaeyaepaeuaepaesabraepaesaeeaewaetaev-activity-7267200685660610560-Pvxe?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEi4qtkB6Vk9T-qVJnqNZ9yYZIKz1AtGNKo
 
-https://github.com/mashaellab/Legal-Case-Analysis-/blob/main/1732635664813.mp4 
+
