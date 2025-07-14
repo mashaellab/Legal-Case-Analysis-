@@ -36,4 +36,4 @@
 - تصنيف القضايا:
 القضايا العامة هي الأكثر تسجيلًا بين جميع التصنيفات.
 
-1732635664813.mp4
+https://github.com/mashaellab/Legal-Case-Analysis-/blob/main/1732635664813.mp4 
